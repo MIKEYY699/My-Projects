@@ -53,9 +53,13 @@ Technologies: Python • Pandas • Scikit-learn
  📂 Repository Structure
 University-Projects/
 │
+
 ├── Handwritten-Text-Recognition/
+
 ├── Medical-Management-System/
+
 ├── Email-Spam-Detection/
+
 └── README.md
 
 ---
