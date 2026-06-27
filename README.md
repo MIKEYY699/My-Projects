@@ -69,6 +69,7 @@ The purpose of this repository is to demonstrate my academic learning, technical
  👩‍💻 Author
 
 Khuzaima Ur Rehman
+
 Bachelor of Science in Computer Science
 
 ⭐ *Thank you for visiting this repository. Feedback and suggestions are always welcome!*
