@@ -49,15 +49,13 @@ Technologies: Python • Pandas • Scikit-learn
 * Problem Solving
 
 ---
-'''test
- 📂 Repository Structure
+```text
 University-Projects/
-│
 ├── Handwritten-Text-Recognition/
 ├── Medical-Management-System/
 ├── Email-Spam-Detection/
 └── README.md
-'''
+```
 ---
 
  🎯 Objective
