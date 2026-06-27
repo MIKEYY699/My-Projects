@@ -49,6 +49,7 @@ Technologies: Python • Pandas • Scikit-learn
 * Problem Solving
 
 ---
+📂 Repository Structure
 ```text
 University-Projects/
 ├── Handwritten-Text-Recognition/
